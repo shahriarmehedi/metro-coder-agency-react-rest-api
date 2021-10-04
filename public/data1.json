@@ -1,0 +1,58 @@
+[
+    {
+        "_id": "615aca7841a07da70dda63da",
+        "index": 0,
+        "picture": "https://raw.githubusercontent.com/shahriarmehedi/simple-nav/main/1.png",
+        "name": "Front-End Development",
+        "text": "Complete frontend course with HTML, CSS, JavaScript and JavaScript framework React"
+    },
+    {
+        "_id": "615aca788431ac800b3cea97",
+        "index": 1,
+        "picture": "https://raw.githubusercontent.com/shahriarmehedi/simple-nav/main/2.png",
+        "name": "Back-End Development",
+        "text": "Complete backend course with Node JS, Django & MySQL"
+    },
+    {
+        "_id": "615aca785e2b46e88647269f",
+        "index": 2,
+        "picture": "https://raw.githubusercontent.com/shahriarmehedi/simple-nav/main/3.png",
+        "name": "MERN Stack Development",
+        "text": "Full stack developer course with MERN stack"
+    },
+    {
+        "_id": "615aca78d9c4f46b0f9e9402",
+        "index": 3,
+        "picture": "https://raw.githubusercontent.com/shahriarmehedi/simple-nav/main/4.png",
+        "name": "Flutter App Development",
+        "text": "Cross platform native app development with flutter"
+    },
+    {
+        "_id": "615aca780e506f155ad512a5",
+        "index": 4,
+        "picture": "https://raw.githubusercontent.com/shahriarmehedi/simple-nav/main/5.png",
+        "name": "React Native Development",
+        "text": "Cross platform native app development with React Native"
+    },
+    {
+        "_id": "615aca78b51ac904fba8844c",
+        "index": 5,
+        "picture": "https://raw.githubusercontent.com/shahriarmehedi/simple-nav/main/6.png",
+        "name": "Modern UI/UX Design",
+        "text": "Modern & stylish user interface design with figma, Adobe XD & Photoshop"
+    },
+    {
+        "_id": "615aca78dc13ef2cf4807a77",
+        "index": 6,
+        "picture": "https://raw.githubusercontent.com/shahriarmehedi/simple-nav/main/7.png",
+        "name": "Master SEO",
+        "text": "On page & Off page SEO course for mastering in web ranking"
+    },
+    {
+        "_id": "615aca780543645c0ea5897c",
+        "index": 7,
+        "picture": "https://raw.githubusercontent.com/shahriarmehedi/simple-nav/main/8.png",
+        "name": "Digital Marketing",
+        "text": "Complete digital marketing course for all of the major Platform"
+    }
+]

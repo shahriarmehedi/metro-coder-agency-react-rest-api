@@ -1,0 +1,12 @@
+.custom-bg2 {
+  background-color: #25262a;
+}
+
+.secondary-bg {
+  background-color: #35373b;
+}
+
+.to-hover:hover .to-change {
+  color: aliceblue;
+  transition: ease-in-out 0.3s;
+}
