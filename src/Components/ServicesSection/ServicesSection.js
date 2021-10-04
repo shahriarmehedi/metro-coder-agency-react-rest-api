@@ -2,6 +2,8 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 import './ServicesSection.css'
 
+/////////////////////////// SERVICES IN HOMEPAGE /////////////////////
+
 const ServicesSection = () => {
     return (
         <div className="custom-bg2">

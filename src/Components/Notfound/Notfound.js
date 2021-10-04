@@ -2,7 +2,7 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 import './Notfound.css'
 import { motion } from 'framer-motion';
-
+/////////////////////////    404 PAGE    ///////////////////////////////
 const Notfound = () => {
     return (
         <motion.div

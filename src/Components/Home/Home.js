@@ -4,7 +4,7 @@ import ProcessSection from '../../ProcessSection/ProcessSection';
 import HeroSection from '../HeroSection/HeroSection';
 import ServicesSection from '../ServicesSection/ServicesSection';
 import './Home.css'
-
+// //////////////////// HOME PAGE /////////////////////
 const Home = () => {
     return (
         <motion.div

@@ -9,6 +9,7 @@ import Home from './Components/Home/Home';
 import Notfound from './Components/Notfound/Notfound';
 import Services from './Components/Services/Services';
 
+// ////// APPLYING REACT ROUTER /////////
 function App() {
   return (
     <div className="App">

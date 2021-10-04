@@ -1,6 +1,9 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 
+/////////////////////  PROCESSS SECTION IN HOMEPAGE  //////////////////////
+
+
 const ProcessSection = () => {
     return (
         <div>

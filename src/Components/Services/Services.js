@@ -13,7 +13,7 @@ const Services = () => {
             .then(data => setServices(data))
     }, [])
 
-
+    //////////////////////////////  SERVICES PAGE  ////////////////////////
 
     return (
         <motion.div

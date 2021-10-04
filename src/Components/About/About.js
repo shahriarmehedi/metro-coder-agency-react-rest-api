@@ -2,7 +2,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import './About.css'
-
+// ///// MOTION.DIV FOR ANIMATION PURPOSE///////
 const About = () => {
     return (
         <motion.div

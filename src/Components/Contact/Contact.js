@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-
+// ///// MOTION.DIV FOR ANIMATION PURPOSE///////
 const Contact = () => {
     return (
         <motion.div

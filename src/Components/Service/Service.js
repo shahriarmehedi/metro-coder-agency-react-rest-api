@@ -3,7 +3,7 @@ import React from 'react';
 const Service = (props) => {
 
     const { picture, name, text } = props.service
-
+    ///////////////  SINGLE SERVICE  ////////////////
     return (
         <div className="transform hover:-translate-y-3 to-hover text-center secondary-bg transition duration-300 rounded w-full mx-auto">
             <img className="mx-auto w-full rounded-t" src={picture} alt="" />

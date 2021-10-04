@@ -1,7 +1,7 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import './HeroSection.css'
-
+// ///////////////////////   HERO SECTION ON HOMEPAGE   ///////////////////////
 const HeroSection = () => {
     return (
         <div>

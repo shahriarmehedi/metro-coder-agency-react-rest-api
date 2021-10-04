@@ -3,9 +3,9 @@ import { NavLink } from 'react-router-dom';
 import './Header.css'
 
 const Header = () => {
-
+    // //// FOR MOBILE SIDEBAR///////
     const [showmenu, setShowmenu] = useState(false);
-
+    // //// MOBILE NAVIGATION//////
     let menu
     if (showmenu) {
         menu =
@@ -29,7 +29,7 @@ const Header = () => {
             </div>
 
     }
-
+    // /////////// ///////////PERMANENT HEADER ////////////////////////////////
     return (
         <div>
             <nav className="custom-bg text-white mx-auto overflow-x-hidden">
